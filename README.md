@@ -2,14 +2,18 @@
 
 Research related to the operating system.
 
-- https://secret.club/
-- https://www.malvuln.com/
+Internals
+- [Windows Internals](https://windows-internals.com/pages/internals-blog/)
+- [Windows Insider Program](https://insider.windows.com/en-us/)
+- [Common coding errors](https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/19-CommonCodingErrors/CommonCodingErrors.pdf)
+- [WinDbg (User-Mode)](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg)
+
+
+Exploitation
 - https://thenixuchallenge.com/c/
-- https://insider.windows.com/en-us/
-- https://github.com/leesh3287/WinPwn
-- https://github.com/zodiacon/windowsinternals
+- https://secret.club/tags#windows
+- https://github.com/leesh3288/WinPwn
 - https://zaratec.github.io/awesome-windows-ctf/
-- https://windows-internals.com/pages/internals-blog/
-- https://en.wikipedia.org/wiki/Microsoft_Visual_C%1B%2B
-- https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-8.1
-- https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/18-CommonCodingErrors/CommonCodingErrors.pdf
+
+Malware
+- https://www.malvuln.com/
